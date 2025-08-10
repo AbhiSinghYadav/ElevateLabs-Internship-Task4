@@ -76,5 +76,3 @@ All output screenshots are stored in the `screenshots/` folder.
 ## 📅 Author
 **Abhi Singh Yadav** – Data Analyst Intern in ElevateLabs
 **Date** 08-08-2025
-## 📅 Author
-**[Your Name]** – Data Analyst Intern
